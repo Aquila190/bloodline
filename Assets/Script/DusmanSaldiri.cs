@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy2 : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
     public int damage = 10; 
     public float attackCooldown = 1.0f; 
