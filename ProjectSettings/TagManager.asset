@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - Pickup
+  - Oyuncu
+  - DeathZone
+  - Enemy
   layers:
   - Default
   - TransparentFX
